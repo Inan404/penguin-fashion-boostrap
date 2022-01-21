@@ -1,0 +1,19 @@
+.nav-color{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: black;
+}
+.buy-now{
+  background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+  color: white;
+}
+
+section{
+ margin-top: 50px;
+}
+
+.section-title{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 48px;
+  padding-bottom: 25px;
+}
